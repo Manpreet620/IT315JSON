@@ -1,13 +1,12 @@
 {
   "BudgetManager":
-[
-    {
+[{
         "BudgetSavingName": "Record Expense",
         "BudgetDescription": "The first step to start saving money is figuring out how much you spend. Keep track of",
         "budgetBenefit": "useful in knowing the average amount of daily, weekly, and monthly expenses",
         "budgetSite": "https://www.moneymanagement.org",
         "budgetImage": "https://raw.githubusercontent.com/Manpreet620/IT315JSON/1cd74739ebd20a8e5d4f0661ff8c9222e017c970/calculator.jpg"
-    },
+  },
     {
         "BudgetSavingName": "Set Saving Goal",
         "BudgetDescription": "One of the best ways to save money is to set a goal. Start by thinking about what you might want to save for—both in the short term, the long term ",
