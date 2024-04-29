@@ -1,3 +1,5 @@
+{
+  "BudgetManager":
 [
     {
         "BudgetSavingName": "Record Expense",
@@ -34,4 +36,6 @@
         "budgetSite": "https://ntam.northerntrust.com",
         "budgetImage": "https://raw.githubusercontent.com/Manpreet620/IT315JSON/1cd74739ebd20a8e5d4f0661ff8c9222e017c970/budgetimage1.jpg"
     }
-]
+],
+    "Status":"OK"
+}
