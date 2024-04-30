@@ -11,6 +11,5 @@
      {"BudgetSavingName":"Track your income and expenses","BudgetDescription":"Every budget starts with knowing how much you’re earning and spending. Use a spreadsheet or online budgeting tool to record your after-tax income and expenses.","budgetBenefit":"It will help you best save for your goals.","budgetSite":"https://www.moneymanagement.org","budgetImage":"https://raw.githubusercontent.com/Manpreet620/IT315JSON/main/budgetimage1.jpg"},
      {"BudgetSavingName":"Know your credit score","BudgetDescription":"Your credit score follows you for life and can dramatically affect your ability to borrow money, secure a mortgage, and qualify for a low-interest credit card","budgetSite":"https://ntam.northerntrust.com","budgetImage":"https://raw.githubusercontent.com/Manpreet620/IT315JSON/main/Investments.jpg"}
    ],
-   ],
    "Status":"OK"
 }
